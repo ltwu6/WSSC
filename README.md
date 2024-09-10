@@ -38,7 +38,7 @@ Some codes are borrowed from [PatchComplete](https://github.com/yuchenrao/PatchC
 @article{wu20243d,
   title={3D Shape Completion on Unseen Categories: A Weakly-supervised Approach},
   author={Wu, Lintai and Hou, Junhui and Song, Linqi and Xu, Yong},
-  journal={arXiv preprint arXiv:2401.10578},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
   year={2024}
 }
 ```
