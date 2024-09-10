@@ -1,5 +1,5 @@
 # WSSC
-This is the official implementation for the paper  [3D Shape Completion on Unseen Categories: A Weakly-supervised Approach](https://arxiv.org/pdf/2401.10578.pdf)
+This is the official implementation for the paper  [3D Shape Completion on Unseen Categories: A Weakly-supervised Approach](https://arxiv.org/pdf/2401.10578.pdf)(Accepted by IEEE TVCG)
 
 ![image](https://github.com/ltwu6/WSSC/blob/main/model/flowchart.png)
 
